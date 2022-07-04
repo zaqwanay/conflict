@@ -1,5 +1,5 @@
-def hello_world():
-    print(f'Hello World!')
+def hello_world(state):
+    print(f'Hello World {state}!')
 
 
 def main():
